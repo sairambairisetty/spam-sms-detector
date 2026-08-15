@@ -93,3 +93,9 @@ npm run dev
 # Ensure backend virtual environment is active(optional)
 cd backend
 python train.py
+
+
+
+
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/cb2c3bfb-f270-4e49-830f-757dae637ad4" />
+
