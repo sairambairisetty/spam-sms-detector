@@ -97,5 +97,5 @@ python train.py
 
 
 
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/cb2c3bfb-f270-4e49-830f-757dae637ad4" />
+<img width="1983" height="793" alt="ai_sms_spam_detector_banner_no_qr" src="https://github.com/user-attachments/assets/cba314e4-40a7-4059-9713-8563a2e59775" />
 
