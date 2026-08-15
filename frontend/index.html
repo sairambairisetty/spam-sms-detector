@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SMS Spam Detector</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="card">
+        <h2 class="title">SMS Spam Detector</h2>
+
+        <textarea
+          id="messageInput"
+          rows="4"
+          class="message-input"
+          placeholder="Type or paste your message here..."
+        ></textarea>
+
+        <button id="checkBtn" class="submit-button">Check Message</button>
+
+        <div id="resultBox" class="result-box hidden"></div>
+      </div>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
